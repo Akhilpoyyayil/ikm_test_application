@@ -1,0 +1,11 @@
+.containers {
+  display: flex;
+  justify-content: right;
+  align-items: right;
+}
+.content {
+  margin-top: 20px;
+}
+.table-container {
+  margin-top: 20px;
+}
